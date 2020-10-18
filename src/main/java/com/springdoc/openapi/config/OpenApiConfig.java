@@ -28,7 +28,7 @@ public class OpenApiConfig {
 				.info(info)
 				.externalDocs(new ExternalDocumentation()
 						.description("Enternal Documentation")
-						.url("https://ram222mohan.com"));
+						.url("http://springdoc.org"));
 		// @formatter:on
 
 	}
